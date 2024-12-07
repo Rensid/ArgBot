@@ -1,0 +1,9 @@
+aiogram~=3.10.0
+Pillow~=10.4.0
+moviepy~=1.0.3
+environs~=11.0.0
+redis~=5.2.0
+sqlmodel~=0.0.22
+alembic~=1.14.0
+psycopg[binary]==3.2.3
+SQLAlchemy~=2.0.36
